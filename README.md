@@ -77,7 +77,7 @@ El flujo del proyecto sigue los siguientes pasos:
 
 ## Resultados
 
-1. **Análisis de Sentimientos**: El modelo alcanzó una precisión del XX% en la clasificación de tweets en positivos y negativos.
+1. **Análisis de Sentimientos**: El modelo alcanzó una precisión del 98% en la clasificación de tweets en positivos y negativos 92%. Ademas, el 84% de las veces identifica cuando un sentimiento es negativo y el 99% de las veces identifica bien los positivos. 
 2. **Detección de Tópicos**: Los tópicos detectados incluyen conceptos clave como `Acciones y movimientos climáticos` y `Conceptos generales de cambio climático`.
 3. **Sistema de Recuperación**: El sistema permite realizar búsquedas interactivas y obtener resultados relevantes con análisis de sentimiento.
 
